@@ -64,9 +64,9 @@ console.log("Tu edad segun tu año es de: " + resultado);
 function infcinco(){
 var num1, num2, dato1, dato2;
 
-dato1 = window.prompt("Introduce el primer numero es menor");
+dato1 = window.prompt("Introduce el primer numero ");
 num1 = parseInt(dato1);
-dato2 = window.prompt("Introduce el segundo numero es mayor");
+dato2 = window.prompt("Introduce el segundo numero ");
 num2 = parseInt(dato2);
 
 if(num1 > num2){
